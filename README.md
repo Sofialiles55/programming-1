@@ -1,2 +1,3 @@
-# programming-1
+# Programming I
+
 Programming exercises collection
